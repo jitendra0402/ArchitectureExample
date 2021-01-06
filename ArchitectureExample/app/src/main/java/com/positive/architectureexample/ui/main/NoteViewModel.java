@@ -2,7 +2,7 @@ package com.positive.architectureexample.ui.main;
 
 import android.app.Application;
 
-import com.positive.architectureexample.data.db.Repository.NoteRepository;
+import com.positive.architectureexample.data.db.repository.NoteRepository;
 import com.positive.architectureexample.data.db.entity.Note;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.positive.architectureexample.data.db.Repository;
+package com.positive.architectureexample.data.db.repository;
 
 import android.app.Application;
 import android.os.AsyncTask;
